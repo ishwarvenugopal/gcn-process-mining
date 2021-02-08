@@ -1,6 +1,6 @@
 ## Quartile-Based Prediction of Event Types and Event Time in Business Processes using Deep Learning 
 
-This repository contains the source code and the associated files for the MSc Thesis titled 'Quartile-Based Prediction of Event Types and Event Time in Business Processes using Deep Learning', submitted by Ishwar Venugopal (1906084)
+This repository contains the source code and the associated files for the thesis/paper titled 'Quartile-Based Prediction of Event Types and Event Time in Business Processes using Deep Learning', submitted by Ishwar Venugopal.
 
 The data is organised into five folders. The contents of each of the folders is described below:
 
