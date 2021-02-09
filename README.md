@@ -14,7 +14,7 @@ Contains codes for the initial data analysis using **PM4Py** ( *PM4Py_analysis_(
 
 ### LSTM_Baseline
 
-Contains the codes to implement the LSTM model presented in [Predictive Business Process Monitoring with Structured and Unstructured Data](https://link.springer.com/chapter/10.1007/978-3-319-45348-4_23)
+Contains the codes to implement the LSTM model presented in [Predictive Business Process Monitoring with LSTM Neural Networks](https://arxiv.org/abs/1612.02130)
 
 ### Model_Variants
 
